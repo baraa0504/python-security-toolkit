@@ -1,2 +1,2 @@
 # Python Security Toolkit
-A collection of offensive security scripts built in Python.
+Bulding this during a 13-week offensive security study plan.
